@@ -1,0 +1,1 @@
+# Newtopn-Raphson-numeriacl-method-in-c-
